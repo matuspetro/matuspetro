@@ -49,6 +49,14 @@ Contributing to Catima - a loyalty card wallet app for Android.
 
 ![Matus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matuspetro&show_icons=true&theme=default)
 
+## 📊 Most Used Languages
+
+![Python](https://img.shields.io/badge/Python-56.15%25-3776AB?style=flat-square&logo=python&logoColor=white)
+![Cuda](https://img.shields.io/badge/Cuda-27.09%25-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-9.29%25-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Stylus](https://img.shields.io/badge/Stylus-3.94%25-333333?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-3.53%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
 ---
 
 ⭐️ From [matuspetro](https://github.com/matuspetro)
