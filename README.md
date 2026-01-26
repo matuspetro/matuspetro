@@ -1,42 +1,5 @@
 # Welcome to my GitHub profile!
 
-## My Projects
-
-### [CS Chat App](https://github.com/matuspetro/cs-chat-app)
-A real-time chat application built with modern cloud technologies.
-
-**Tech Stack:**
-- Next.js
-- AWS Amplify
-- Amazon Cognito (Authentication)
-- AWS AppSync (GraphQL API)
-- Amazon DynamoDB (Database)
-- TypeScript
-
-**Features:**
-- Secure user authentication
-- Real-time messaging
-- Serverless architecture
-- Scalable cloud infrastructure
-
----
-
-### 💳 [Catima Android](https://github.com/matuspetro/CatimaAndroid)
-Contributing to Catima - a loyalty card wallet app for Android.
-
-**About Catima:**
-- Open-source loyalty card and barcode manager
-- Privacy-focused (no data collection)
-- Barcode scanning
-- Import/export backups
-- Multi-language support
-
-**Technologies:**
-- Android development
-- Java
-
----
-
 ## 🛠️ Technologies & Tools
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
