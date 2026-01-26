@@ -21,7 +21,3 @@ Next.js • AWS • TailwindCSS • Arduino • Android Studio • Three.js • 
 **[CS Chat App](https://github.com/matuspetro/cs-chat-app)** – Real-time chat application built with Next.js, AWS Amplify, GraphQL, and DynamoDB
 
 **[Catima Android](https://github.com/matuspetro/CatimaAndroid)** – Contributing to open-source loyalty card wallet app
-
-## 📊 GitHub Stats
-
-![Matus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matuspetro&show_icons=true&theme=default)
