@@ -18,6 +18,14 @@ Next.js • AWS • TailwindCSS • Arduino • Android Studio • Three.js • 
 
 ## 📌 Pinned Projects
 
+**[Block Puzzle](https://github.com/matuspetro/Block-Puzzle)**
+
+**[Distributed-File-System](https://github.com/matuspetro/Distributed-File-System)**
+
+**[DQN, PPO in CALRA](https://github.com/matuspetro/smad-carla)**
+
+**[Loyalty prediction](https://github.com/matuspetro/zive-it-projekty-tema-28-labourdigital)**
+
 **[CS Chat App](https://github.com/matuspetro/cs-chat-app)** – Real-time chat application built with Next.js, AWS Amplify, GraphQL, and DynamoDB
 
-**[Catima Android](https://github.com/matuspetro/CatimaAndroid)** – Contributing to open-source loyalty card wallet app
+**[Catima Android](https://github.com/CatimaLoyalty/Android)** – Contributing to open-source loyalty card wallet app
