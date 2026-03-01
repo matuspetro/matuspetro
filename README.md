@@ -18,13 +18,13 @@ Next.js • AWS • TailwindCSS • Arduino • Android Studio • Three.js • 
 
 ## 📌 Pinned Projects
 
-**[Block Puzzle](https://github.com/matuspetro/Block-Puzzle)**
+**[Block Puzzle](https://github.com/matuspetro/Block-Puzzle)** - A classic block puzzle game where players arrange pieces to clear the board.
 
-**[Distributed-File-System](https://github.com/matuspetro/Distributed-File-System)**
+**[Distributed-File-System](https://github.com/matuspetro/Distributed-File-System)** - A distributed file system enabling file sharing and synchronization across multiple nodes.
 
-**[DQN, PPO in CALRA](https://github.com/matuspetro/smad-carla)**
+**[DQN, PPO in CALRA](https://github.com/matuspetro/smad-carla)** - Deep reinforcement learning algorithms applied for autonomous driving simulation in CARLA.
 
-**[Loyalty prediction](https://github.com/matuspetro/zive-it-projekty-tema-28-labourdigital)**
+**[Loyalty prediction](https://github.com/matuspetro/zive-it-projekty-tema-28-labourdigital)** - Data science project that predicts customer loyalty using machine learning techniques.
 
 **[CS Chat App](https://github.com/matuspetro/cs-chat-app)** – Real-time chat application built with Next.js, AWS Amplify, GraphQL, and DynamoDB
 
